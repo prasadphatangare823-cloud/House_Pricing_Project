@@ -1,12 +1,12 @@
 # Household-Project
-# 🏠 House Price Prediction System
+#  House Price Prediction System
 
-## 📌 Project Overview
+##  Project Overview
 The **House Price Prediction System** is a Machine Learning-based web application that predicts house prices based on user-provided property details.
 
 This project uses **Python as the backend** to process data and generate predictions, while **HTML, CSS, and JavaScript** are used to create an interactive and user-friendly frontend.
 
-## 🚀 Technologies Used
+##  Technologies Used
 
 ### Frontend
 - HTML5
@@ -23,7 +23,7 @@ This project uses **Python as the backend** to process data and generate predict
 - Scikit-learn
 - Matplotlib (if used)
 
-## ✨ Features
+##  Features
 - User-friendly interface.
 - Enter house details to predict prices.
 - Machine Learning-based price prediction.
@@ -31,7 +31,7 @@ This project uses **Python as the backend** to process data and generate predict
 - Real-time prediction results.
 - Responsive web design (if implemented).
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 House-Price-Prediction/
@@ -55,7 +55,7 @@ House-Price-Prediction/
 
 *Note: Update the folder and file names according to your actual project structure.*
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 **1. Clone the Repository**
 
@@ -87,17 +87,17 @@ python main.py
 
 Open `index.html` in your browser or use the configured frontend server.
 
-## 🔮 How It Works
+## How It Works
 1. The user enters the required house details.
 2. The frontend sends the input data to the Python backend.
 3. The backend processes the information using the trained Machine Learning model.
 4. The model predicts the estimated house price.
 5. The predicted price is displayed on the frontend.
 
-## 🎯 Project Objective
+## Project Objective
 The main objective of this project is to understand the practical implementation of Machine Learning, Python backend development, and frontend integration by developing a real-world house price prediction application.
 
-## 📚 Learning Outcomes
+##  Learning Outcomes
 - Understanding Machine Learning concepts.
 - Working with Python libraries.
 - Developing backend APIs.
@@ -105,11 +105,6 @@ The main objective of this project is to understand the practical implementation
 - Handling user input and displaying predictions.
 - Understanding the complete ML application workflow.
 
-## 👨‍💻 Author
-**Prasad Phatangare**
+##  Author
+~ Prasad Phatangare
 
-BCA Student | Aspiring Data Analyst | Python & Machine Learning Enthusiast
-
----
-
-⭐ If you find this project interesting, feel free to explore the repository!
